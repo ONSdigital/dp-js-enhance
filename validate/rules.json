@@ -1,0 +1,27 @@
+[
+  {
+    "id": "search",
+    "rules": [
+      {
+        "name": "min_length",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "phone-number",
+    "rules": [
+      {
+        "name": "numeric"
+      }
+    ]
+  },
+  {
+    "id": "email",
+    "rules": [
+      {
+        "name": "email"
+      }
+    ]
+  }
+]
